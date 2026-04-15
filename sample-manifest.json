@@ -1,0 +1,12 @@
+{
+  "export_job_id": "587e87cf-2f3a-4336-82b7-e2139740d62c",
+  "id_short": 947258,
+  "published_at": "2026-04-15T19:43:45Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-detroit-warren-dearborn-mi-metro-area-us-sample-947258",
+  "sample_asset_name": "beamstation_947258_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/947258/beamstation_947258_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv",
+  "sample_records": 240,
+  "sample_sha256": "ef641db12da2e976dcaea937d45cb3e315d1ae27fb4cb56e3189f3e42517316a",
+  "sample_size_bytes": 917211,
+  "total_records": 574
+}
