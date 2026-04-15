@@ -1,0 +1,22 @@
+{
+  "base_price": 1495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 10km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Detroit-Warren-Dearborn, MI Metro Area, US",
+  "export_job_id": "587e87cf-2f3a-4336-82b7-e2139740d62c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 947258,
+  "location_name": "Detroit-Warren-Dearborn, MI",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-detroit-warren-dearborn-mi-metro-area-us-sample-947258",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/947258/beamstation_947258_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv",
+  "sample_pct": 41.81,
+  "sample_records": 240,
+  "sample_sha256": "ef641db12da2e976dcaea937d45cb3e315d1ae27fb4cb56e3189f3e42517316a",
+  "sample_size_bytes": 917211,
+  "total_records": 574,
+  "updated_at": "2026-03-31T23:36:32.119603+00:00"
+}
