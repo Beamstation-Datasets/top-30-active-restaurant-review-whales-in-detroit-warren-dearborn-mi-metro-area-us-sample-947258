@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Detroit-Warren-Dearborn, MI Metro Area, US
 
-> Free BeamStation sample export with 240 rows and masked direct-contact fields.
+> Free BeamStation sample export with 132 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `947258` |
 | Location | Detroit-Warren-Dearborn, MI |
 | Category | Restaurants |
-| Full dataset size | 2,403 records |
-| Free sample size | 240 records (9.99%) |
-| Last export | 2026-04-15T01:16:23.599798+00:00 |
+| Full dataset size | 1,327 records |
+| Free sample size | 132 records (9.95%) |
+| Last export | 2026-04-22T05:40:13.196363+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-detroit-warren-dearborn-mi-metro-area-us-sample-947258/releases/download/sample-latest/beamstation_947258_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
